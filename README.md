@@ -1,4 +1,4 @@
-### Demonstration of Data analytics
+## Demonstration of Data analytics
 These are some demonstrations data analytics on the data collected from social media or online services like tweets, google reviews, comments etc.
 
 ⭐ EDA on Netflix and DisneyPlus data
