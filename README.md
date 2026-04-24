@@ -1,7 +1,7 @@
 ### Demonstration of Data analytics
 These are some demonstrations data analytics on the data collected from social media or online services like tweets, google reviews, comments etc.
 
-[⭐ EDA on Netflix and DisneyPlus data]
+⭐ [EDA on Netflix and DisneyPlus data]
 A comparative Exploratory Data Analysis (EDA) of Netflix and Disney+ Hotstar to uncover contrasting content strategies, audience targeting, and market positioning. This project transforms raw streaming data into actionable business insights using Python.
 
 [⭐ Sentiment Analysis on Amazon Data]
